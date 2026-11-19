@@ -1,0 +1,14 @@
+*.exe
+*.zip
+*.log
+*.dmp
+*.etl
+*.tmp
+.venv/
+ud*/
+installers/
+hosts.backup
+hosts_result.txt
+install_result.txt
+install_full_result.txt
+svc_start.txt
